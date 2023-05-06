@@ -22,7 +22,7 @@ This is a solution for the [QR Code Component challenge on Frontend Mentor](http
 
 ### Links
 
-- [Live Demo](https://your-live-demo-link.com)
+- [Live Demo]('desktop-design.jpg')
 - [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/qr-code-component-using-react-5C_pJYnFq)
 
 ## Built With
