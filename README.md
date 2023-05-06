@@ -1,5 +1,3 @@
-Certainly! Here is an example README file for your project using React:
-
 # QR Code Component with React
 
 This is a solution for the [QR Code Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) using React.
@@ -18,12 +16,12 @@ This is a solution for the [QR Code Component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![QR Code Component preview](./screenshot.png)
+![QR Code Component preview](./src/design/desktop-design.jpg)
 
 ### Links
 
-- [Live Demo]('desktop-design.jpg')
-- [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/qr-code-component-using-react-5C_pJYnFq)
+- [Live Demo](https://vaqueraoscar0.github.io/Frontend.io-QR_Code_Component)
+- [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/)
 
 ## Built With
 
